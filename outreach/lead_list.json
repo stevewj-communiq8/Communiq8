@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Sami Al-Qenaei",
+    "company": "Q8host",
+    "role": "Founder & CEO",
+    "website": "q8host.com",
+    "contact_info": "LinkedIn: /in/sami-alqenaei",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Kuwait web hosting & digital services company — 'Q8' in their brand name shows they value the Kuwait shorthand. communiq8.com aligns perfectly with their hosting/comms vertical."
+  },
+  {
+    "id": 2,
+    "name": "Stewart Butterfield",
+    "company": "Slack (Salesforce)",
+    "role": "Co-Founder (former CEO)",
+    "website": "slack.com",
+    "contact_info": "LinkedIn: /in/stewart",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Founded the world's leading workplace messaging platform. Slack's focus on 'communicate' maps directly. Could be interested for a side-project, spinoff or portfolio."
+  },
+  {
+    "id": 3,
+    "name": "Amir Salihefendic",
+    "company": "Doist (Todoist, Twist)",
+    "role": "CEO & Founder",
+    "website": "doist.com",
+    "contact_info": "Twitter: @amix3k",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Built Todoist and Twist (async communication platform). Twist is a direct competitor in the messaging space — communiq8.com would be a natural brand extension."
+  },
+  {
+    "id": 4,
+    "name": "Sachin Gupta",
+    "company": "Hike",
+    "role": "Founder & CEO",
+    "website": "hike.in",
+    "contact_info": "LinkedIn: /in/sachingupta",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Founded Hike, a messaging app with 100M+ users. Currently building in Web3/social. 'Communiq8' bridges the gap between communication and community — exactly their space."
+  },
+  {
+    "id": 5,
+    "name": "Nir Eyal",
+    "company": "Habitica / Community builder",
+    "role": "Author & Entrepreneur",
+    "website": "nireyal.com",
+    "contact_info": "Twitter: @nireyal",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Author of 'Hooked' and 'Indistractable' — focuses on behaviour design in communication platforms. Would understand the premium value of a keyword-rich domain for a community project."
+  },
+  {
+    "id": 6,
+    "name": "Mohammad Al-Humaidi",
+    "company": "Petra Real Estate",
+    "role": "Managing Director",
+    "website": "petra-realestate.com.kw",
+    "contact_info": "LinkedIn: /in/mohammad-al-humaidi",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Kuwait real estate firm. Kuwaiti businesses expanding their digital presence need premium domains with local resonance. The 'Q8' signal in communiq8.com has strong Kuwait identity."
+  },
+  {
+    "id": 7,
+    "name": "Brian Armstrong",
+    "company": "Coinbase",
+    "role": "Co-Founder & CEO",
+    "website": "coinbase.com",
+    "contact_info": "Twitter: @brian_armstrong",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Coinbase has a massive community/communications arm. Known for acquiring premium domains. Could be interested for a community or communications product spinoff."
+  },
+  {
+    "id": 8,
+    "name": "Bassam Al-Shammari",
+    "company": "Zain Telecom Kuwait",
+    "role": "CEO",
+    "website": "zain.com",
+    "contact_info": "LinkedIn: /in/bassam-alshammari",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "CEO of Zain Kuwait (one of the region's largest telecoms). A telecom company is a natural buyer for a communications-branded domain bundle targeting Kuwait."
+  },
+  {
+    "id": 9,
+    "name": "Miguel de Icaza",
+    "company": "Xamarin / GitHub / Microsoft",
+    "role": "Engineer & Open Source Leader",
+    "website": "github.com/migueldeicaza",
+    "contact_info": "Twitter: @migueldeicaza",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Works on developer communication tools. Co-founded Ximian, created Mono. Would value a premium domain for a developer-community or communication product."
+  },
+  {
+    "id": 10,
+    "name": "Ali Al-Hasawi",
+    "company": "Al Hasawi Group",
+    "role": "Chairman",
+    "website": "alhasawigroup.com",
+    "contact_info": "LinkedIn: /in/ali-alhasawi",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Leading Kuwaiti business conglomerate with interests across retail, real estate, and telecom. Diversified groups acquiring premium digital assets is common."
+  },
+  {
+    "id": 11,
+    "name": "Daniel Ek",
+    "company": "Spotify",
+    "role": "Co-Founder & CEO",
+    "website": "spotify.com",
+    "contact_info": "Twitter: @eldsjal",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Spotify is increasingly a social/communication platform (Spotify Jam, Blend, podcasts). 'Communiq8' could work for a community or social audio play."
+  },
+  {
+    "id": 12,
+    "name": "Mohammad Al-Failakawi",
+    "company": "Kuwait Financial Centre (Markaz)",
+    "role": "Senior Executive",
+    "website": "markaz.com",
+    "contact_info": "LinkedIn: /in/mohammad-al-failakawi",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Major Kuwaiti financial institution. Financial firms in Kuwait looking to launch digital-first communication or community platforms would need premium domains with local resonance."
+  },
+  {
+    "id": 13,
+    "name": "Cal Henderson",
+    "company": "Slack (Salesforce)",
+    "role": "CTO & Co-Founder",
+    "website": "slack.com",
+    "contact_info": "Twitter: @iamcal",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Co-founded Slack and Flickr. Deep understanding of communication platforms. Could be scouting for personal projects or advising portfolio companies."
+  },
+  {
+    "id": 14,
+    "name": "Tariq Al-Mutairi",
+    "company": "Equate Group",
+    "role": "CEO",
+    "website": "equategroup.com",
+    "contact_info": "LinkedIn: /in/tariq-al-mutairi",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Kuwait-headquartered global petrochemical company. Large Kuwaiti enterprises often acquire premium domains for investor relations, internal comms portals or brand protection."
+  },
+  {
+    "id": 15,
+    "name": "Ben Rubin",
+    "company": "Houseparty (Epic Games)",
+    "role": "Founder",
+    "website": "houseparty.com",
+    "contact_info": "Twitter: @benrubin",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Founded Houseparty (social video communication app acquired by Epic). Understands the value of a memorable, action-oriented domain in the social/community space."
+  },
+  {
+    "id": 16,
+    "name": "Nasser Al-Sayer",
+    "company": "Al Sayer Group",
+    "role": "Chairman",
+    "website": "alsayer.com",
+    "contact_info": "LinkedIn: /in/nasser-alsayer",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Major Kuwaiti conglomerate (automotive, retail, hospitality). Large groups in Kuwait are increasingly investing in digital assets and brand portfolios."
+  },
+  {
+    "id": 17,
+    "name": "Tina He",
+    "company": "Lunchclub",
+    "role": "Co-Founder & CEO",
+    "website": "lunchclub.ai",
+    "contact_info": "LinkedIn: /in/tinahe",
+    "persona_type": "Communication Brand",
+    "fit_reason": "AI-powered professional networking. The 'community' and 'communication' angle maps directly. Premium domain would strengthen their brand for scaling."
+  },
+  {
+    "id": 18,
+    "name": "Mishari Al-Mutairi",
+    "company": "KIPCO (Kuwait Projects Company)",
+    "role": "Executive Director",
+    "website": "kipco.com",
+    "contact_info": "LinkedIn: /in/mishari-al-mutairi",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "One of Kuwait's largest investment holding companies with media and telecom interests. KIPCO owns OSN and has major communication sector investments — a natural fit."
+  },
+  {
+    "id": 19,
+    "name": "Megan Cummins",
+    "company": "Discourse (Civilized Discourse)",
+    "role": "Director of Operations",
+    "website": "discourse.org",
+    "contact_info": "LinkedIn: /in/megancummins",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Discourse is the leading open-source community platform. 'Communiq8' phonetically means 'communicate' — perfect alignment with a community/forum platform brand."
+  },
+  {
+    "id": 20,
+    "name": "Waleed Al-Othman",
+    "company": "Al-Othman Holding",
+    "role": "Chairman",
+    "website": "alothmanholding.com",
+    "contact_info": "LinkedIn: /in/waleed-al-othman",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Diversified Kuwaiti holding company. Well-established local groups acquiring premium domain names for new digital ventures is standard practice."
+  },
+  {
+    "id": 21,
+    "name": "Roxanne Varza",
+    "company": "Station F",
+    "role": "Director",
+    "website": "stationf.co",
+    "contact_info": "Twitter: @roxannevarza",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Runs the world's largest startup campus. Community and communication are central to Station F's mission. Could connect us to portfolio founders needing a brand."
+  },
+  {
+    "id": 22,
+    "name": "Fahad Al-Rajaan",
+    "company": "Gulf Bank of Kuwait",
+    "role": "CEO",
+    "website": "gulfbank.com",
+    "contact_info": "LinkedIn: /in/fahad-al-rajaan",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "CEO of one of Kuwait's largest banks. Banks launching digital-first communication/community banking products need premium domain assets with local identity."
+  },
+  {
+    "id": 23,
+    "name": "Li Jin",
+    "company": "Atelier Ventures / Community",
+    "role": "Founder & VC",
+    "website": "li-jin.co",
+    "contact_info": "Twitter: @ljin18",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Investor focused on creator economy and community. 'Communiq8' as a brand bridges community and communication — exactly her investment thesis."
+  },
+  {
+    "id": 24,
+    "name": "Bader Al-Kharafi",
+    "company": "Mabanee / Kuwait investment",
+    "role": "Board Member",
+    "website": "mabanee.com",
+    "contact_info": "LinkedIn: /in/bader-alkharafi",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Member of the prominent Al-Kharafi family. Involved in major Kuwaiti real estate and investment. High-net-worth individuals are known domain portfolio buyers."
+  },
+  {
+    "id": 25,
+    "name": "Theo Priestley",
+    "company": "Community Labs / Web3",
+    "role": "Founder",
+    "website": "theopriestley.com",
+    "contact_info": "Twitter: @tpriestley",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Thought leader on Web3 communities and the future of communication. Would value a domain that conveys both community and communication for a Web3 project."
+  },
+  {
+    "id": 26,
+    "name": "Hamad Al-Abduljader",
+    "company": "Kuwait Chamber of Commerce",
+    "role": "Chairman",
+    "website": "kuwaitchamber.org.kw",
+    "contact_info": "LinkedIn: /in/hamad-al-abduljader",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Head of Kuwait's Chamber of Commerce. Could connect us to member businesses looking to expand digital presence with premium domains."
+  },
+  {
+    "id": 27,
+    "name": "Dhivya Suryadevara",
+    "company": "Stripe",
+    "role": "CFO",
+    "website": "stripe.com",
+    "contact_info": "LinkedIn: /in/dhivya-suryadevara",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Stripe's communications and community infrastructure (Stripe Connect, Stripe Community). Premium domain could be a strategic acquisition for a new Stripe product."
+  },
+  {
+    "id": 28,
+    "name": "Yousef Al-Abdullah",
+    "company": "Kuwait Direct Investment Promotion Authority",
+    "role": "Director General",
+    "website": "kdipa.gov.kw",
+    "contact_info": "LinkedIn: /in/yousef-alabdullah",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Government investment promotion body. Could connect us to foreign companies entering the Kuwait market who need locally-relevant domain names."
+  },
+  {
+    "id": 29,
+    "name": "Sarah Kunst",
+    "company": "Cleo Capital",
+    "role": "Managing Director",
+    "website": "cleocapital.com",
+    "contact_info": "Twitter: @sarahrenaeclark",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Invests in early-stage companies including in the community space. Could refer portfolio companies that need a strong communication-focused brand."
+  },
+  {
+    "id": 30,
+    "name": "Dr. Rana Al-Sabah",
+    "company": "Kuwait Investment Authority",
+    "role": "Senior Advisor",
+    "website": "kia.gov.kw",
+    "contact_info": "LinkedIn: /in/rana-alsabah",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "World's oldest sovereign wealth fund. KIA's portfolio includes communication sector investments. High-level connection for enterprise sale."
+  },
+  {
+    "id": 31,
+    "name": "Brian Chesky",
+    "company": "Airbnb",
+    "role": "Co-Founder & CEO",
+    "website": "airbnb.com",
+    "contact_info": "Twitter: @bchesky",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Airbnb is fundamentally about community. 'Communiq8' could work for a community features product or a spinoff. Known to appreciate brand and design."
+  },
+  {
+    "id": 32,
+    "name": "Ali Al-Mutairi",
+    "company": "Fajr Centre",
+    "role": "Founder",
+    "website": "fajrcentre.com",
+    "contact_info": "Twitter: @ali_almutairi",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Kuwaiti tech entrepreneur and startup ecosystem builder. Deep connections in Kuwait's startup scene — could refer buyers or acquire for his own ventures."
+  },
+  {
+    "id": 33,
+    "name": "Simon Sinek",
+    "company": "Optimism Company",
+    "role": "Author & Founder",
+    "website": "simonsinek.com",
+    "contact_info": "Twitter: @simonsinek",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Built a personal brand around communication and leadership. Has a community platform. 'Communiq8' could be a natural brand for a community or course platform."
+  },
+  {
+    "id": 34,
+    "name": "Nawaf Al-Dhubaib",
+    "company": "Gulf Consult",
+    "role": "President",
+    "website": "gulfconsult.com",
+    "contact_info": "LinkedIn: /in/nawaf-aldhubaib",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Leading Kuwait engineering/consulting firm. Professional services firms expanding digital presence need premium domain assets."
+  },
+  {
+    "id": 35,
+    "name": "Kevin Systrom",
+    "company": "Instagram / Artifact",
+    "role": "Co-Founder",
+    "website": "instagram.com",
+    "contact_info": "Twitter: @kevin",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Built Instagram (community/communication platform) and Artifact (news/community). Understands brand power of domains. Could be scouting for next project."
+  },
+  {
+    "id": 36,
+    "name": "Shihab Al-Hamad",
+    "company": "Burgan Bank",
+    "role": "CEO",
+    "website": "burgan.com",
+    "contact_info": "LinkedIn: /in/shihab-al-hamad",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Major Kuwaiti bank. Banks launching digital communication platforms for customers need premium domain names with local identity."
+  },
+  {
+    "id": 37,
+    "name": "Mohammed Al-Marzouq",
+    "company": "Kuwait Ministry of Commerce & Industry",
+    "role": "Undersecretary",
+    "website": "moci.gov.kw",
+    "contact_info": "LinkedIn: /in/mohammed-al-marzouq",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Government official overseeing commerce. Could connect us to businesses or be aware of initiatives needing digital brand assets."
+  },
+  {
+    "id": 38,
+    "name": "Sahil Lavingia",
+    "company": "Gumroad",
+    "role": "Founder & CEO",
+    "website": "gumroad.com",
+    "contact_info": "Twitter: @shl",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Built Gumroad (creator commerce + community). Expanding into community features. 'Communiq8' aligns with creator community communication tools."
+  },
+  {
+    "id": 39,
+    "name": "Ahmad Al-Marzouq",
+    "company": "KNPC (Kuwait National Petroleum)",
+    "role": "CEO",
+    "website": "knpc.com.kw",
+    "contact_info": "LinkedIn: /in/ahmad-almarzouq",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "State-owned petroleum company. Large Kuwaiti enterprises often acquire domain portfolios for brand protection and digital transformation initiatives."
+  },
+  {
+    "id": 40,
+    "name": "John Coogan",
+    "company": "Product Hunt / Community",
+    "role": "Investor & Advisor",
+    "website": "producthunt.com",
+    "contact_info": "Twitter: @johncoogan",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Deep in the startup community space. Could identify a portfolio company that needs a strong communication/community brand."
+  },
+  {
+    "id": 41,
+    "name": "Abdulmohsen Al-Abdulmohsen",
+    "company": "Al-Abdulmohsen Group",
+    "role": "Chairman",
+    "website": "alabdulmohsen.com",
+    "contact_info": "LinkedIn: /in/abdulmohsen-abdulmohsen",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Prominent Kuwaiti business group. Family-owned conglomerates often invest in premium digital real estate for brand and asset appreciation."
+  },
+  {
+    "id": 42,
+    "name": "Tommy Griffith",
+    "company": "Airbnb / Clickminded",
+    "role": "SEO & Domain Expert",
+    "website": "clickminded.com",
+    "contact_info": "Twitter: @tommygriffith",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Author of 'SEO for Domains' and known domain valuation expert. Would understand the value proposition and could broker connections to buyers."
+  },
+  {
+    "id": 43,
+    "name": "Faisal Al-Abdulla",
+    "company": "Al-Faisal Holding",
+    "role": "Vice Chairman",
+    "website": "alfaisalholding.com",
+    "contact_info": "LinkedIn: /in/faisal-alabdulla",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Large Kuwaiti investment holding company with diverse portfolio. Acquiring premium domain assets fits their investment strategy."
+  },
+  {
+    "id": 44,
+    "name": "David Sacks",
+    "company": "Craft Ventures / Yammer",
+    "role": "General Partner",
+    "website": "craftventures.com",
+    "contact_info": "Twitter: @davidsacks",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Co-founded Yammer (enterprise social network). Now VC investing in communication and community platforms. Would understand the strategic value immediately."
+  },
+  {
+    "id": 45,
+    "name": "Abdulmohsen Al-Babtain",
+    "company": "Al-Babtain Group",
+    "role": "CEO",
+    "website": "albabtain.com.kw",
+    "contact_info": "LinkedIn: /in/abdulmohsen-albabtain",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Leading Kuwaiti conglomerate (telecom, tech, construction). Diversified groups launching new ventures need premium domain names."
+  },
+  {
+    "id": 46,
+    "name": "Tasneem Al-Sultan",
+    "company": "500 Global (Middle East)",
+    "role": "Regional Director",
+    "website": "500.co",
+    "contact_info": "LinkedIn: /in/tasneem-alsultan",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "VC investing in MENA startups including Kuwait. Could refer portfolio companies or invest in a venture that acquires the domain bundle."
+  },
+  {
+    "id": 47,
+    "name": "Matt Mullenweg",
+    "company": "Automattic (WordPress, Tumblr)",
+    "role": "CEO & Founder",
+    "website": "automattic.com",
+    "contact_info": "Twitter: @photomatt",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Built WordPress (publishing/community) and Tumblr. Automattic acquired premium domains before. 'Communiq8' fits a new communication product perfectly."
+  },
+  {
+    "id": 48,
+    "name": "Meshal Al-Meshal",
+    "company": "National Technology Enterprises (NTEC)",
+    "role": "CEO",
+    "website": "ntec.com.kw",
+    "contact_info": "LinkedIn: /in/meshal-almeshal",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Kuwait's sovereign tech investment arm. Invests in technology ventures. A premium domain bundle for a communications venture would be directly relevant."
+  },
+  {
+    "id": 49,
+    "name": "Ankur Warikoo",
+    "company": "Warikoo Enterprises",
+    "role": "Founder & Content Creator",
+    "website": "warikoo.com",
+    "contact_info": "Twitter: @warikoo",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Built a massive community around communication, content and entrepreneurship. Could use communiq8.com for a community platform or course offering."
+  },
+  {
+    "id": 50,
+    "name": "Yasser Al-Marzouq",
+    "company": "Kuwait E-Commerce Association",
+    "role": "Chairman",
+    "website": "keca.org.kw",
+    "contact_info": "LinkedIn: /in/yasser-almarzouq",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Heads Kuwait's e-commerce association. Deep network of Kuwaiti digital businesses who value premium domain names for their online presence."
+  },
+  {
+    "id": 51,
+    "name": "Jonathan Smalley",
+    "company": "Yapster",
+    "role": "Co-Founder & CEO",
+    "website": "yapster.com",
+    "contact_info": "LinkedIn: /in/jonathansmalley",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Built Yapster (employee communication platform). Direct competitor to Slack in the workplace messaging space. 'Communiq8' is a natural fit for their brand."
+  },
+  {
+    "id": 52,
+    "name": "Bader Al-Taweel",
+    "company": "Kuwait Finance House",
+    "role": "Senior Executive",
+    "website": "kfh.com",
+    "contact_info": "LinkedIn: /in/bader-altaweel",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Kuwait's largest Islamic bank. Major financial institutions are acquiring premium domains for digital banking, fintech and customer communication platforms."
+  },
+  {
+    "id": 53,
+    "name": "DJ Patil",
+    "company": "Greycroft (formerly US CTO)",
+    "role": "Tech Investor",
+    "website": "djpatil.com",
+    "contact_info": "Twitter: @dpatil",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Invests in data and communication companies. Former US Chief Technology Officer. Would value the strategic positioning of a communication-domain bundle."
+  },
+  {
+    "id": 54,
+    "name": "Husain Al-Mutairi",
+    "company": "Kuwait Tech Leaders / Mindshare",
+    "role": "Founder",
+    "website": "mindsharekw.com",
+    "contact_info": "LinkedIn: /in/husainalmutairi",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Kuwait tech community organizer and entrepreneur. Runs Mindshare KW (tech meetups). Deep network in Kuwait's startup and tech community."
+  },
+  {
+    "id": 55,
+    "name": "Ben Silbermann",
+    "company": "Pinterest",
+    "role": "Co-Founder & CEO",
+    "website": "pinterest.com",
+    "contact_info": "Twitter: @bensilbermann",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Built Pinterest (visual community platform). Expanding into communication/social features. Premium domain for a new community product is in their wheelhouse."
+  },
+  {
+    "id": 56,
+    "name": "Omar Al-Omar",
+    "company": "Kuwait Telecommunications (KEMS)",
+    "role": "CEO",
+    "website": "kems.com",
+    "contact_info": "LinkedIn: /in/omar-alomar",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Kuwaiti telecommunications and managed services provider. Direct alignment — communications infrastructure company serving the Kuwait market."
+  },
+  {
+    "id": 57,
+    "name": "Sam Altman",
+    "company": "OpenAI / Worldcoin",
+    "role": "CEO",
+    "website": "openai.com",
+    "contact_info": "Twitter: @sama",
+    "persona_type": "Communication Brand",
+    "fit_reason": "Worldcoin/World ID is fundamentally about identity and community communication. Known to invest in strategic digital assets."
+  },
+  {
+    "id": 58,
+    "name": "Ali Al-Zalzala",
+    "company": "Sultan Center / Kuwait retail",
+    "role": "CEO",
+    "website": "thesultancenter.com",
+    "contact_info": "LinkedIn: /in/ali-alzalzala",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Major Kuwaiti retailer. Retail businesses need communication platforms and premium domains for digital transformation and customer engagement."
+  },
+  {
+    "id": 59,
+    "name": "Hunter Walk",
+    "company": "Homebrew (VC)",
+    "role": "Partner",
+    "website": "homebrew.co",
+    "contact_info": "Twitter: @hunterwalk",
+    "persona_type": "Communication Brand",
+    "fit_reason": "VC investing in community and communication startups. Could introduce us to portfolio companies that need a premium communication brand."
+  },
+  {
+    "id": 60,
+    "name": "Ahmad Al-Fahad",
+    "company": "Kuwait Foundation for the Advancement of Sciences",
+    "role": "Director",
+    "website": "kfas.com",
+    "contact_info": "LinkedIn: /in/ahmad-alfahad",
+    "persona_type": "Kuwait Market",
+    "fit_reason": "Science foundation that supports innovation. Could connect us to Kuwaiti tech startups and entrepreneurs who would value premium domains."
+  }
+]
